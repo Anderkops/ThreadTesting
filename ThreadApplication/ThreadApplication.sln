@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadAppUI", "ThreadAppUI.csproj", "{A4635EFC-4BF9-4C32-8F33-3E7D84C0B371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadAppBusiness", "..\ThreadBusiness\ThreadAppBusiness.csproj", "{D44C6C29-8E7C-4944-BB92-2BDAAE2E993E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4635EFC-4BF9-4C32-8F33-3E7D84C0B371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4635EFC-4BF9-4C32-8F33-3E7D84C0B371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4635EFC-4BF9-4C32-8F33-3E7D84C0B371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4635EFC-4BF9-4C32-8F33-3E7D84C0B371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44C6C29-8E7C-4944-BB92-2BDAAE2E993E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44C6C29-8E7C-4944-BB92-2BDAAE2E993E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44C6C29-8E7C-4944-BB92-2BDAAE2E993E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44C6C29-8E7C-4944-BB92-2BDAAE2E993E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {043623D3-902B-4821-8CFB-F43225D62E19}
+	EndGlobalSection
+EndGlobal
